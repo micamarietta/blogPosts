@@ -11,7 +11,7 @@ With this, I was able to get a good foundation with the concept of recursion bef
 
 Let's start with using the Fibonacci sequence for our first recursive Haskell function. I also find that analyzing each line helps me understand the Haskell syntax.
 
-*Fibonacci Program:
+Fibonacci Program:
 
 fib 0 = 0
 fib 1 = 1
