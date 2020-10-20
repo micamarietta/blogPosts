@@ -47,7 +47,6 @@ We are able to use this mathematical definition and recursive logic to implement
 
 By implementing this function in Python and Java, we can compare them, and observe if recursion significantly changes through use of different syntax and interpreted and compiled languages.
 
-##### Python Fibonacci Function
 
 **Python Fibonacci function:**
 
