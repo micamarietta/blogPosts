@@ -6,3 +6,19 @@ marietta@chapman.edu
 ## Blog One
 ### Topic: Installing Haskell on Windows 10 Home
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogOne.md
+
+## Blog Two
+### Topic: Recursion & the Fibonacci Sequence (Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogTwo.md
+
+## Blog Three
+### Topic: Recursion & Implementing Recursion in Haskell (Pt. 2)
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogThree.md
+
+## Blog Four
+### Topic: Installing Haskell on Windows 10 Home
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogFour.md
+
+## Blog Five
+### Topic: Installing Haskell on Windows 10 Home
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogFive.md
