@@ -10,7 +10,7 @@ There are several websites and tutorials that go through the steps to install Ha
 Here is the link to install for Windows: https://www.haskell.org/platform/windows.html
 
 ### Step 1
-####First, you must configure "Chocolatey" on your computer. Link: https://chocolatey.org/install
+#### First, you must configure "Chocolatey" on your computer. Link: https://chocolatey.org/install
 Chocolatey is a software management solution on Windows, that helps you keep track of the packages you have and which version of that package you are on.
 
 Although I have never directly interacted with Chocolatey on my computer when utilizing Haskell, it is an application you must have to complete the Haskell installation process for Windows.
