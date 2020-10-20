@@ -1,15 +1,17 @@
-# Blog No. 2
+# Blog No. 3
 ## Recursion & Implementing Recursion in Haskell (Pt 2)
 
 In my previous post, I discussed recursion, the Fibonacci sequence, and wrote two functions (one in Python and one in Java) that computed the Fibonacci sequence recursively.
 
 With this, I was able to get a good foundation with the concept of recursion before creating recursive Haskell functions.
 
+
+
 ### Haskell Fibonacci Sequence Program
 
 Let's start with using the Fibonacci sequence for our first recursive Haskell function. I also find that analyzing each line helps me understand the Haskell syntax.
 
-**Fibonacci Program**:
+*Fibonacci Program:
 
 fib 0 = 0
 fib 1 = 1
@@ -35,11 +37,14 @@ Afterwards, the command prompt returned these values for each of the functions:
 21
 55
 
+
 ----------------------------------------------------------
+
 
 With this, I thought it would be interesting to try some different recursive functions in Haskell (that aren't the Fibonacci sequence :))
 
 I remember doing a lot of recursion in Python and Java with lists and arrays, computing length, removing each element, etc. Here, I want to show a **Haskell function  that indicates the length of a list**.
+
 
 ### Haskell List Length Program
 
