@@ -16,7 +16,7 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogTwo.md
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogThree.md
 
 ## Blog Four
-### Topic: Installing Haskell on Windows 10 Home
+### Topic: A Look at Abstract and Concrete Syntax
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogFour.md
 
 ## Blog Five
