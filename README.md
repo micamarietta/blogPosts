@@ -20,5 +20,5 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogThree.md
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogFour.md
 
 ## Blog Five
-### Topic: Installing Haskell on Windows 10 Home
+### Topic: A Brief Introduction to Lambda Calculus
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogFive.md
