@@ -24,3 +24,23 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogFour.md
 ## Blog Post Five
 ### Topic: A Brief Introduction to Lambda Calculus
 Link: https://github.com/micamarietta/blogPosts/blob/main/BlogFive.md
+
+## Blog Post Six
+### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/BlogSix.md
+
+## Blog Post Seven
+### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/BlogSeven.md
+
+## Blog Post Eight
+### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/BlogEight.md
+
+## Blog Post Nine
+### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/BlogNine.md
+
+## Blog Post Ten
+### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+Link: https://github.com/micamarietta/blogPosts/blob/main/BlogTen.md
