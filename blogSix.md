@@ -9,10 +9,10 @@ I think an **ARS** can be simply defined as a process where a set of rules trans
 
 set T = {a, b, c}
 
-Rules:
-a -> b
-b -> c
-c ->
+Rules: <br/>
+a -> b <br/>
+b -> c <br/>
+c -> <br/>
 
 With this ARS, we can see that with our given rules, we would be able to break down input given, almost like a program would with a set of steps. For example, let's say **our input is a**.
 
@@ -38,13 +38,13 @@ Now let's try a more difficult example...
 
 set S = {a, b, c}
 
-Rules:
-a -> bc
-b -> a
-ba -> bc
-ab -> bb
-bc -> c
-aa ->
+Rules: <br/>
+a -> bc <br/>
+b -> a <br/>
+ba -> bc <br/>
+ab -> bb <br/>
+bc -> c <br/>
+aa -> <br/>
 
 With this set of rules, lets try a few different inputs:
 **Input 1** = a
@@ -53,16 +53,16 @@ With this set of rules, lets try a few different inputs:
 
 #### Input 1:
 
-a -> bc
-bc -> c
+a -> bc <br/>
+bc -> c <br/>
 
 because there is no rule that transforms c to another set of letters or letter, c is our ending point.
 
 #### Input 2:
 
-bb -> aa
-aa -> bcbc
-bcbc -> cc
+bb -> aa <br/>
+aa -> bcbc <br/>
+bcbc -> cc <br/>
 
 cc is our ending point.
 
@@ -73,21 +73,20 @@ it is possible for us to have different outputs from the same input and same set
 
 **Solution 1:**
 
-abbc -> bbbc       ---- uses the rule ab -> bb
-bbbc -> bbc
-bbc -> aac
-aac -> bcbcc
-bcbcc -> ccc
+abbc -> bbbc       ---- uses the rule ab -> bb <br/>
+bbbc -> bbc <br/>
+bbc -> aac <br/>
+aac -> bcbcc <br/>
+bcbcc -> ccc <br/>
 
 ccc is our ending point.
 
 **Solution 2:**
 
-abbc -> bcbc       ---- uses the rule a -> bc
-bcbc -> cc
+abbc -> bcbc       ---- uses the rule a -> bc <br/>
+bcbc -> cc <br/>
 
 cc is our ending point.
 
 
-With using inputs and stepping through the logic of the rules of our ARS's, we were able to see the process that an ARS creates, almost illustrating the concept of the ARS like stepping through steps in code. We can analyze these ARS's for different things, inlcuding **confluence** and **termination**. In my next blogs, we will cover these concepts with more
-ARS examples.
+With using inputs and stepping through the logic of the rules of our ARS's, we were able to see the process that an ARS creates, almost illustrating the concept of the ARS like stepping through steps in code. We can analyze these ARS's for different things, inlcuding **confluence** and **termination**. In my next blogs, we will cover these concepts with more ARS examples.
