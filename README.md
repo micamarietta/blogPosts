@@ -27,7 +27,7 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/BlogFive.md
 
 ## Blog Post Six
 ### Topic: An intro to ARS's (ARS Blogs Pt. 1)
-Link: https://github.com/micamarietta/blogPosts/blob/main/BlogSix.md
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogSix.md
 
 ## Blog Post Seven
 ### Topic: An intro to ARS's (ARS Blogs Pt. 1)
