@@ -44,3 +44,22 @@ a -> b <br/>
 b -> c <br/>
 
 Our set is confluent. No matter where you start with any input, everything will always be reduced to a common ancestor, **c**.
+
+Our set can obviously be more complicated. In order to check for confluence of a more complicated set, we can try out a series of inputs that we suspect may have different reductions.
+
+Let's say we have a set S.
+
+S = {a,b,c,d}
+
+Rules: <br/>
+Rules:
+a -> bc <br/>
+b -> a <br/>
+ba -> bc <br/>
+ab -> bb <br/>
+bc -> c <br/>
+aa -> <br/>
+
+Our set is **not** confluent. While the inputs a, b, ba, and bc all reduce to the common ancestor c, ab and aa reduce to cc and [] respectively.
+
+For more practice, it is helpful to create your own rules and just go through determining normal forms as well as confluence.
