@@ -35,7 +35,7 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogSeven.md
 
 ## Blog Post Eight
 ### Topic: Termination
-Link: https://github.com/micamarietta/blogPosts/blob/main/BlogEight.md
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogEight.md
 
 ## Blog Post Nine
 ### Topic: An intro to ARS's (ARS Blogs Pt. 1)
