@@ -26,15 +26,15 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogFour.md
 Link: https://github.com/micamarietta/blogPosts/blob/main/BlogFive.md
 
 ## Blog Post Six
-### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+### Topic: An intro to ARS's
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogSix.md
 
 ## Blog Post Seven
-### Topic: Normal Forms and Confluence (ARS Blogs Pt. 2)
+### Topic: Normal Forms and Confluence
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogSeven.md
 
 ## Blog Post Eight
-### Topic: An intro to ARS's (ARS Blogs Pt. 1)
+### Topic: Termination
 Link: https://github.com/micamarietta/blogPosts/blob/main/BlogEight.md
 
 ## Blog Post Nine
