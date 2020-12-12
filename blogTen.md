@@ -47,6 +47,6 @@ Test case option (1 or more): outlines one (or more) of the specific ways a func
 
 Here is an example of a test case I created for a software system like Canvas, where professors must create classes that are verified before students can join them:
 
-
+https://github.com/micamarietta/blogPosts/blob/main/testCase%20Picture.JPG
 
 The highlighted steps draw parallels between the Hoare triple and a software engineering test case. I thought this was extremely interesting because of how well the two logical processes align, despite one being used for theoretical computing or even coding of a program, while the other deals with ensuring a created application or product is working as intended. In addition, I think it revealed to me that Hoare logic is not as niche and solely connected to theoretical computing, but instead used very largely to ensure correctness through the cycle of creating software.
