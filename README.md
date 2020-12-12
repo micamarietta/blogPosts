@@ -30,16 +30,16 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/BlogFive.md
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogSix.md
 
 ## Blog Post Seven
-### Topic: Normal Forms and Confluence
+### Topic: Intro to Normal Forms and Confluence
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogSeven.md
 
 ## Blog Post Eight
-### Topic: Termination
+### Topic: Getting Comfortable with Termination
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogEight.md
 
 ## Blog Post Nine
-### Topic: An intro to ARS's (ARS Blogs Pt. 1)
-Link: https://github.com/micamarietta/blogPosts/blob/main/BlogNine.md
+### Topic: Getting Comfortable with Invariants
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogNine.md
 
 ## Blog Post Ten
 ### Topic: An intro to ARS's (ARS Blogs Pt. 1)
