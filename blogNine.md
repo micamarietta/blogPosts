@@ -5,18 +5,22 @@ Invariants are a topic that, at first, I had a hard time understanding the conce
 
 I like to think of an **invariant** simply as a condition that is true before and after an expression. We can determine a multitude of invariants within the rules in our ARS (As Dr.Kurz similarly mapped out on github):
 
-Suppose we have this set of rules within our ARS:
+
+Suppose we have this set of rules within our ARS: <br/>
 
 a -> b <br/>
 b -> a <br/>
 
-From here, we can search for some invariants. Imagine these are lines of code that you are executing in order (from the top down). What isn't changing after we go through these rules? What /*patterns*/ are similar between these two lines?
 
-Here are some examples of invariants that can be found within these rules:
+From here, we can search for some invariants. Imagine these are lines of code that you are executing in order (from the top down). What isn't changing after we go through these rules? What *patterns* are similar between these two lines?
+
+
+Here are some examples of invariants that can be found within these rules: <br/>
 length <br/>
 number of a's <br/>
 number of b's <br/>
 any equation involving number of a's, number of b's, or length (ex: length + num a's, num b's - num a's, etc) <br/>
+
 
 
 As Dr. Kurz mentions, this can be further divided into groups. While this is important, I feel that it is already covered extensively in the lecture notes.Since the idea of this blog is to bring more comfortability with the idea of invariants, I do not want to repeat examples from class.
@@ -48,10 +52,10 @@ public class WordLength{
   }
 }
 
-A few invariants lie within this small snippet of code:
+A few invariants lie within this small program:
 scan = new Scanner(System.in) <br/>
 n > 0 <br/>
-n < word.length but ONLY within the while suite
+n < word.length but **ONLY within the while suite**
 
 One invariant I think is interesting is n < word.length. While this condition is not a global invariant within our entire program, it is technically an invariant within our while loop suite. The commands inside the while loop suite are **only** executed when n < word.length(), making it a consistent condition that is true. 
 
