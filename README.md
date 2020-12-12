@@ -42,5 +42,5 @@ Link: https://github.com/micamarietta/blogPosts/blob/main/blogEight.md
 Link: https://github.com/micamarietta/blogPosts/blob/main/blogNine.md
 
 ## Blog Post Ten
-### Topic: An intro to ARS's (ARS Blogs Pt. 1)
-Link: https://github.com/micamarietta/blogPosts/blob/main/BlogTen.md
+### Topic: Hoare Logic
+Link: https://github.com/micamarietta/blogPosts/blob/main/blogTen.md
