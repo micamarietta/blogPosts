@@ -37,13 +37,14 @@ Confluence can be described as a property of our ARS. An ARS is said to be **con
 
 Let's begin with a set T.
 
-T = {a,b,c}
+T = {a,b,c,d}
 
 Rules: <br/>
 a -> b <br/>
 b -> c <br/>
+d -> [] <br/>
 
-Our set is confluent. No matter where you start with any input, everything will always be reduced to a common ancestor, **c**.
+Our set is confluent. No matter where you start with any input, no rules are overlapping. 
 
 Our set can obviously be more complicated. In order to check for confluence of a more complicated set, we can try out a series of inputs that we suspect may have different reductions.
 
