@@ -20,9 +20,7 @@ ba -> b <br/>
 ab -> bb <br/>
 
 
-In order to determine whether our ARS terminates, we can look at our rules and determine a **measure function**. If there is a function or relation within the rules that is consistent (aka a measure function), then we can conclude that **our ARS terminates**.
-
-There are a few ways that Dr. Kurz laid out to elegantly create a measure function, but there is one strategy that I use consistently that I think is the easiest way to prove termination.
+In order to determine whether our ARS terminates, we can look at our rules and determine a **measure function**. If there is a function or relation within the rules that is consistent (aka a measure function), then we can conclude that **our ARS terminates**. The measure function follows the structure as follows: In an ARS (A, ->), the function f A -> N is a measure function if a -> b implies f(a) > f(b). There are elegant ways to showcase this relationship:
 
 In our current ARS, A, we can create a measure function by "assigning" or mapping **a -> 1 and b -> 2**. We can consider our rules in decimal notation. With this, we can edit our rules:
 
@@ -39,7 +37,7 @@ b -> ba <br/>
 ab -> bb <br/>
 12 -> 22 <br/>
 
-With this, we can see a pattern in our rules. The left side **is always less than the right side**. This can be our measure function:
+With this, we can see a pattern in our rules. The left side **is always less than the right side**. This fits the definition of a measure function:
 
 Rules:
 a -> bb <br/>
@@ -54,7 +52,7 @@ b -> ba <br/>
 ab -> bb <br/>
 12 < 22 <br/>
 
-With this, because our measure function fulfills every rule in our ARS, our ARS is **terminating**.
+With this, because the measure function exists, our ARS is **terminating**.
 
 For more practice with termination, it is helpful to determine whether different sets are terminating and determine measure rules for various ARS's.
 
